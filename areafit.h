@@ -28,8 +28,8 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-#ifndef VOX_CAREAFITTER_INCLUDED
-#define VOX_CAREAFITTER_INCLUDED
+#ifndef AREAFIT_INCLUDED
+#define AREAFIT_INCLUDED
 
 #include <stdlib.h>
 #include <stdint.h>
@@ -1996,6 +1996,6 @@ private:
 	}
 };
 
-} // namespace vox
+} // namespace afit
 
-#endif // VOX_CAREAFITTER_INCLUDED
+#endif // AREAFIT_INCLUDED
